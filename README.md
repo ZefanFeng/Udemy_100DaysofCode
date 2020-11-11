@@ -3,7 +3,26 @@ This repository includes projects from course 100 Days of Code on Udemy.
 Master Python by building 100 projects in 100 days. 
 Learn to build websites, games, apps, plus scraping and data science.
 
-Day 1 - Working with Variables in Python to Manage Data
-Day 2 - Understanding Data Types and How to Manipulate Strings
-Day 3 - Control flow and logical opreator
+Projects include: 
+Blackjack
+
+Snake Game
+
+Pong Game
+
+Auto Swipe on Tinder
+
+Auto Job Applications on LinkedIn
+
+Automate Birthday Emails/SMS
+
+Fully Fledged Blog Website
+
+Build Your Own Public API
+
+Data Science with Google Trends
+
+Analysing Lego Datasets
+
+Google App Store Analysis
 
